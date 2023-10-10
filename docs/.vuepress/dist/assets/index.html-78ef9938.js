@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"LSD Starters","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1696896704000,"contributors":[{"name":"Luke Diebold","email":"luke@ldiebold.com","commits":1}]},"filePathRelative":"README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7dad0b54","path":"/micropython/esp32-project.html","title":"Creating A New Esp32 Project","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1696896704000,"contributors":[{"name":"Luke Diebold","email":"luke@ldiebold.com","commits":1}]},"filePathRelative":"micropython/esp32-project.md"}');export{e as data};
